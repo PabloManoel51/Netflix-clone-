@@ -24,10 +24,3 @@ Sistema em Java que simula uma plataforma de streaming de filmes e séries, com 
 - `PagamentoNegocio.java` – Classes de Pagamento, serviço e controller.
 - `FilaNegocio.java` – Classe de gerenciamento de fila.
 
-## **Como Executar**
-
-1. Compile todos os arquivos `.java` juntos.
-2. Execute `Main.java`.
-3. Navegue pelo menu para utilizar as funcionalidades.
-
-## **Estrutura de Pastas Recomendada**
