@@ -1,0 +1,26 @@
+# Arquivos compilados
+*.class
+
+# Pastas de build
+/bin/
+/build/
+/out/
+
+# IDEs
+*.iml
+.idea/
+*.ipr
+*.iws
+.vscode/
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos do Maven/Gradle (caso use futuramente)
+target/
+.gradle/
